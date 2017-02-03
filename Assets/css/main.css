@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: #ffffff;
+		background: #242943;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3519,8 +3519,8 @@
 			#banner.major.alt {
 				opacity: 0.75;
 			}
-
-		#banner.style1:after {
+/* #6fc3df */
+		#banner.style1:after { 
 			background-color: #6fc3df;
 		}
 
