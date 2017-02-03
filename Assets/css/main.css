@@ -2088,8 +2088,10 @@
 			background: #ffffff;
 			border-color: #9bf1ff;
 			content: '\f00c';
-			color: #242943;
+			color: #5998ff;
 		}
+
+		/*#242943*/
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
